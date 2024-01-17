@@ -1,0 +1,5 @@
+login
+mysql --host=127.0.0.1 --port=3306 --user=root --password=MzA3MzgtZG1hcmtz
+
+import
+mysql --user=root --password=MzA3MzgtZG1hcmtz sales < sales.sql
